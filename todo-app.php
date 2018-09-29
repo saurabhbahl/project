@@ -19,7 +19,7 @@
       	   <form name="toDoList">
 			<input type="text" name="ListItem" class="form-control">
 			<br>
-			<button class="btn btn-primary" id="button">Add</button>
+			<button class="btn btn-primary" id="button">Aygygydd</button>
 		  </form>
           <br>
 		<ul></ul>
